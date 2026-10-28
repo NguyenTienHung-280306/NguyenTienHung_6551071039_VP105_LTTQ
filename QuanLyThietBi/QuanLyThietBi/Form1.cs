@@ -8,6 +8,11 @@ namespace QuanLyThietBi
         public Form1()
         {
             InitializeComponent();
+            dgvThietBi.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            dgvThietBi.MultiSelect = false;
+            dgvThietBi.ReadOnly = true;
+            dgvThietBi.AllowUserToAddRows = false;
+            dgvThietBi.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             LoadData();
             TrangThaiBanDau();
         }

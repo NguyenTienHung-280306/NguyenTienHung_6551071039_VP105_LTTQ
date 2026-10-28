@@ -1519,11 +1519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\QuanLyThietBi\\QuanLyThietBi\\QuanLyThietBi.csproj",
+      "projectUniqueName": "E:\\Code\\NguyenTienHung_6551071039_VP105_LTTQ\\QuanLyThietBi\\QuanLyThietBi\\QuanLyThietBi.csproj",
       "projectName": "QuanLyThietBi",
-      "projectPath": "E:\\Code\\QuanLyThietBi\\QuanLyThietBi\\QuanLyThietBi.csproj",
+      "projectPath": "E:\\Code\\NguyenTienHung_6551071039_VP105_LTTQ\\QuanLyThietBi\\QuanLyThietBi\\QuanLyThietBi.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\QuanLyThietBi\\QuanLyThietBi\\obj\\",
+      "outputPath": "E:\\Code\\NguyenTienHung_6551071039_VP105_LTTQ\\QuanLyThietBi\\QuanLyThietBi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
